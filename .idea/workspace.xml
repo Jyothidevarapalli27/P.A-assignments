@@ -4,48 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f4ede81d-70e8-4660-81fc-0f8d0b5739b4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConditionalStatement.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/Array_Length.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/Arrays_Elements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/Enhanced_For_Loop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/Insert_Elements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/Standard_Deviation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/Sum_Average.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/TaskArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Forloop/Greatest_Common_Divisor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Forloop/Guess_Number.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Forloop/Java_Is_Fun.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Forloop/Multipication_Loop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Forloop/Palindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Forloop/Pyramid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Forloop/Sentinel_Value.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Forloop/Subtraction_Loop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Forloop/Sum_Of_Natural_Num.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Forloop/TuitionDoubling.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_controlflow/Class_Grade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_controlflow/If_Statement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_controlflow/If_else.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_controlflow/If_grater_Then.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_controlflow/Including_Equals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_controlflow/Weekday.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pa_assignment_array/Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pa_assignment_array/Array_Clone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pa_assignment_array/Array_For_Loop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pa_assignment_array/Array_Multiplying.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pa_assignment_array/Arrays_Of_Integer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pa_assignment_array/Middle_Element.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pa_assignment_array/My_Array_Length.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pa_assignment_array/Scanner_Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pa_assignment_array/Strings_Double_Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pa_assignment_array/Swap_Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pa_assignment_array/sort_array.java" afterDir="false" />
+    <list default="true" id="f4ede81d-70e8-4660-81fc-0f8d0b5739b4" name="Changes" comment="Arrays P.A">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -225,11 +185,24 @@
       <workItem from="1732540075795" duration="8672000" />
       <workItem from="1732595349307" duration="5753000" />
       <workItem from="1732678498788" duration="5675000" />
-      <workItem from="1732986643924" duration="13933000" />
+      <workItem from="1732986643924" duration="14804000" />
     </task>
+    <task id="LOCAL-00001" summary="Arrays P.A">
+      <option name="closed" value="true" />
+      <created>1733096771087</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1733096771087</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Arrays P.A" />
+    <option name="LAST_COMMIT_MESSAGE" value="Arrays P.A" />
   </component>
 </project>
