@@ -1,4 +1,4 @@
-package pa_assignment_array;
+package Forloop.pa_assignment_array;
 
 public class Array_Multiplying {
     public static void main(String[] args) {
